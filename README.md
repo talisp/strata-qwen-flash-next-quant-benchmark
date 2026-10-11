@@ -213,7 +213,7 @@ The numbers behind every table are in [`data/`](data):
 - [`short-prompts.csv`](data/short-prompts.csv): every run of the 4K / 32K / 128K prompts (3 runs each).
 - [`vision-detail.csv`](data/vision-detail.csv): the 24 vision questions per configuration, with the expected and the given answer.
 
-Published as ISSUE_LINK in the Strata repository.
+Published as [Strata #1956](https://github.com/Niko1221/Strata/issues/1956) in the Strata repository.
 
 ## Resumo em português (pt-BR)
 
